@@ -10,5 +10,4 @@
     fwrite($register, $email); //write email to .txt
     fclose($register);
     }
-    
 ?>
