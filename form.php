@@ -1,4 +1,6 @@
 <?php
+    header('Location: redirect.html'); //redirect to diffent page
+
     $name = $email = ""; //varaibles
 
     /*Recieve data from form and write on txt file*/
